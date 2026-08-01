@@ -10,7 +10,8 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **NextLeg. A modern flight simulation route discovery platform that helps virtual pilots find realistic airline flights, explore airports and aircraft, and export routes to SimBrief with an intuitive, mobile friendly experience.**  
+🔭 &nbsp;I'm currently working on **NextLeg**. A modern flight simulation route discovery platform that helps virtual pilots find realistic airline flights, explore airports and aircraft, and export routes to SimBrief with an intuitive, mobile friendly experience.
+
 🌱 &nbsp;I'm currently learning **Android and iOS Mobile Development**
 
 ### 🛠️ Tech Stack

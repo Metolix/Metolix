@@ -37,7 +37,6 @@ Right now, "learning to build things" mostly means **NextLeg**. A route discover
 
 <div align="center">
   <img width="49%" src="https://stats-card.pages.dev/user?user=metolix&theme=dark"/>
-  <img width="49%" src="https://stats-card.pages.dev/lang?user=metolix&theme=dark&sort=asc"/>
   
 </div>
 

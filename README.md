@@ -14,7 +14,9 @@
 
 I'm a high school junior teaching myself software development. Python is where I'm most comfortable as of now, and I pick up whatever else a project needs along the way. Outside of code, I'm working toward becoming a commercial pilot.
 
-Right now, "learning to build things" mostly means **NextLeg**. A route discovery companion app for virtual pilots. Solving the actual problem: staring at a map with 40,000 airports and no idea where to fly today.
+Building **NextLeg**. A route discovery companion app for virtual pilots. Solving the actual problem: staring at a map with 40,000 airports and no idea where to fly today.
+
+As a side project, I am also building an [AI Police Negotiator Game](https://github.com/Metolix/AI-Negotiator).
 
 <br>
 
@@ -32,21 +34,6 @@ Right now, "learning to build things" mostly means **NextLeg**. A route discover
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://stats-card.pages.dev/user?user=metolix&theme=dark"/>
-  
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Metolix&theme=radical&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=6B1F3A&height=120&section=footer&reversal=true)
 

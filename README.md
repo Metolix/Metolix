@@ -12,20 +12,17 @@
 
 ### 👋 About Me
 
-I'm a high school junior teaching myself software development. Python is where I'm most comfortable as of now, and I pick up whatever else a project needs along the way. Outside of code, I'm working toward becoming a commercial pilot.
+I am an aspiring commercial pilot and self taught software developer currently in high school. My primary technical expertise is in Python, though I rapidly adapt and adopt new languages and frameworks based on project requirements. 
 
-Building **NextLeg**. A route discovery companion app for virtual pilots. Solving the actual problem: staring at a map with 40,000 airports and no idea where to fly today.
-
-As a side project, I am also building an [AI Police Negotiator Game](https://github.com/Metolix/AI-Negotiator).
+I am currently developing **NextLeg**, a route discovery platform for virtual pilots designed to eliminate decision paralysis when selecting flight paths. Additionally, I am building an open source [AI Police Negotiator Game](https://github.com/Metolix/AI-Negotiator).
 
 <br>
 
-### ✈️ Flight Plan
+### ✈️ Current Focus
 
-- **Now** - Learning shipped application structures to enhance my knowledge.
-- **Building** - NextLeg, focused on curated route discovery, live briefings, and so much more.
-- **Looking for** - other builders to learn from, especially anyone working where aviation and software overlap
-
+- **Architecture** – Studying production application patterns and system design.
+- **Development** – Building NextLeg, focusing on route curation algorithms and real-time briefing features.
+- **Networking** – Connecting with developers and builders, particularly those operating at the intersection of aviation and software engineering.
 <br>
 
 ### 🛠️ Tech Stack
